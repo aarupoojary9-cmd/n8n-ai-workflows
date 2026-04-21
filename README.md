@@ -18,7 +18,15 @@ Production-grade AI automation system built with n8n, multi-agent architecture, 
 - workflows/ → automation JSON files  
 - agents/ → AI logic  
 - rag/ → knowledge base system  
-- docs/ → documentation  
+- docs/ → documentation 
+
+## 🧠 Architecture
+
+- Data ingestion (RSS/API)
+- Processing layer (n8n workflows)
+- AI layer (OpenAI / agents)
+- Memory layer (Qdrant / Supabase)
+- Output layer (Telegram / Webhooks)
 
 ---
 
