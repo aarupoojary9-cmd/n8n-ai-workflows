@@ -1,6 +1,6 @@
 # n8n AI Workflows
 
-🚀 Production-grade automation workflows using n8n, AI agents, and RAG.
+Production-grade AI automation system built with n8n, multi-agent architecture, and RAG pipelines.
 
 ---
 
